@@ -1,1 +1,1 @@
-# furnitures.github.io
+# [furnitures](https://furnitures.github.io/)
